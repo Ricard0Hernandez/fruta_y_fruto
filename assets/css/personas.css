@@ -1,0 +1,10 @@
+.persona{
+    display: flex;
+    flex-direction: column;
+}
+
+.personas{
+    display: flex;
+    padding-top: 3 rem;
+    justify-content: space-around;
+}
